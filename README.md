@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ROBOTICS
+- would love to collab for projects
