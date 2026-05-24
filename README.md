@@ -9,38 +9,10 @@
 I'm passionate about building intelligent robotic systems and exploring the future of embodied AI.
 
 Currently working on:
-- 🤖 Self-balancing robots
 - 🦾 VLA-based Bimanual Collaborative Stacking
 - 🎮 XR/Unity simulations
 - 📦 LeRobot & SmolVLA
 - 🧠 Reinforcement Learning and ACT Policies
-
----
-
-## 🚀 Tech Stack
-
-### Robotics & AI
-- ROS2
-- MoveIt
-- Gazebo
-- MuJoCo
-- Reinforcement Learning
-- Vision-Language-Action (VLA)
-- ACT Policy
-- SmolVLA
-
-### Programming
-- Python
-- C++
-- Bash
-- Arduino
-
-### Tools & Platforms
-- Linux / Ubuntu
-- Raspberry Pi
-- Git & GitHub
-- Unity
-- Docker
 
 ---
 
@@ -90,8 +62,11 @@ Currently working on:
 
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/nithishreddy1101](https://github.com/nithishreddy1101/nithishreddy1101/edit/main/README.md)
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/nithish-reddy-anugu-aab81a259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-reddy-anugu-aab81a259/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishreddy1101@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/nithishreddy1101))
 
 ---
 
