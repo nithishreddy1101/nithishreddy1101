@@ -8,12 +8,6 @@
 
 I'm passionate about building intelligent robotic systems and exploring the future of embodied AI.
 
-Currently working on:
-- 🦾 VLA-based Bimanual Collaborative Stacking
-- 🎮 XR/Unity simulations
-- 📦 LeRobot & SmolVLA
-- 🧠 Reinforcement Learning and ACT Policies
-
 ---
 
 ## 🔭 Current Projects
