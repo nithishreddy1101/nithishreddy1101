@@ -12,7 +12,6 @@ I'm passionate about building intelligent robotic systems and exploring the futu
 
 ## 🔭 Current Projects
 
-- 🤖 Small Self-Balancing Bike Robot
 - 🦾 Waste Sorting Robotic Hand with Vacuum Gripper
 - 🎯 VLA-based Bimanual Manipulation
 - 📚 Learning Reinforcement Learning from First Principles
